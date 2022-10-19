@@ -13,6 +13,7 @@
 		0F51F44128E30FFD0009EDFD /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 0F51F43F28E30FFD0009EDFD /* Main.storyboard */; };
 		0F51F44328E310010009EDFD /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 0F51F44228E310010009EDFD /* Assets.xcassets */; };
 		0F51F44628E310010009EDFD /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 0F51F44428E310010009EDFD /* LaunchScreen.storyboard */; };
+		0F51F44E28E318910009EDFD /* DetailsViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0F51F44D28E318910009EDFD /* DetailsViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		0F51F44228E310010009EDFD /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		0F51F44528E310010009EDFD /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		0F51F44728E310010009EDFD /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		0F51F44D28E318910009EDFD /* DetailsViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DetailsViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -63,6 +65,7 @@
 				0F51F44228E310010009EDFD /* Assets.xcassets */,
 				0F51F44428E310010009EDFD /* LaunchScreen.storyboard */,
 				0F51F44728E310010009EDFD /* Info.plist */,
+				0F51F44D28E318910009EDFD /* DetailsViewController.swift */,
 			);
 			path = "Weather App";
 			sourceTree = "<group>";
@@ -141,6 +144,7 @@
 				0F51F43E28E30FFD0009EDFD /* ViewController.swift in Sources */,
 				0F51F43A28E30FFD0009EDFD /* AppDelegate.swift in Sources */,
 				0F51F43C28E30FFD0009EDFD /* SceneDelegate.swift in Sources */,
+				0F51F44E28E318910009EDFD /* DetailsViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
